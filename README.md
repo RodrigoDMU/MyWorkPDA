@@ -20,6 +20,8 @@ This README has been written with [Github's Documentation On READMEs](https://do
 
 You should refer to taht documentation for more information on writing an appropriate README for visitors to your repository.
 
+You can find more about [writing in Mark Down in GitHub's documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 ## About This Project
 
 This project is about....
